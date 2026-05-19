@@ -3,6 +3,6 @@ This is a browser extension for Chrome that lets you paste a list of band names 
 
 To install:
 - Download or clone this repo
-- Open chrome://extensions
+- Open `chrome://extensions`
 - Turn on Developer mode at the top right of the the extensions page
-- Click "Load unpacked" and select the bc-volume-extension folder
+- Click "Load unpacked" and select the `bc-scraper-extension` folder
