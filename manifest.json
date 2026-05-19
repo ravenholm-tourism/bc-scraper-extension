@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+    "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "128": "images/icon-128.png"
+  },
+  "name": "Bandcamp Multi Search",
+  "version": "1.0",
+  "description": "Search Bandcamp for multiple lines and save top results",
+  "permissions": ["storage", "scripting"],
+  "host_permissions": ["https://bandcamp.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
